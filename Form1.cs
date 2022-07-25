@@ -56,6 +56,11 @@ namespace Approcimate_Pi
         {
             this.Close();
         }
+        /*
+         * Enrique Sanchezmurillo
+         * CST-150 Activity 7
+         * 24 JUL 2022
+         */
     }
     }
 
